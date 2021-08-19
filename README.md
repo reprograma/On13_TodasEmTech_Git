@@ -11,7 +11,7 @@ Esse conteúdo foi feito com referência e cópia nos seguintes materiais:
  - [Turma 6 - Github](https://github.com/reprograma/github)
  - [Ramificação git](https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-O-que-%C3%A9-um-Branch)
 
-## [Conteúdo - 08/08/2020](#conteúdo)
+## [Conteúdo - 21/08/2021](#conteúdo)
 ### Resumo
 Nessa aula veremos? 
 * [Conceitos Introdutórios](#conceitos-introdutórios)
