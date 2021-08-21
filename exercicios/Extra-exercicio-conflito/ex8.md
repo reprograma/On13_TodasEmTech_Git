@@ -1,5 +1,5 @@
 ### Resolvendo conflitos de código
-Criar uma branch a partir da master chamada `ex8-seuNome`
+Criar uma branch a partir da main chamada `ex8-seuNome`
 
 Ir no arquivo [index.html](index.html) e alterar a linha `<h1> Oi, meu nome é <b>Usuário teste</b></h1>` com o seu nome.
 
@@ -11,7 +11,7 @@ Criar o Pull Request no github como ensinado
 
 Perceberemos conflitos, como resolver ?
 
-`git pull origin master`
+`git pull origin main`
 
 Um conflito aparecerá.
 

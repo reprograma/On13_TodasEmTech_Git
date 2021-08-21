@@ -120,7 +120,7 @@ Ao ir no repositorio online que passou por fork, faremos o mesmo processo de pul
 
 <img src="../imgs/fork/fork-pull-request-branch.png" alt="Pagina do github na tela de Comparing changes" />
 
-Aqui é um pouco diferente do que vimos antes, pois há a opção de base repository, como vamos enviar a mudança para o repositorio original, devemos manter selecionado o `reprograma/On5-git-e-github` com a base em `master` e no head repository devemos selecionar o com nosso usuario `seuUsuario/On5-git-e-github` compare `fork-exercicio-seuNome`
+Aqui é um pouco diferente do que vimos antes, pois há a opção de base repository, como vamos enviar a mudança para o repositorio original, devemos manter selecionado o `reprograma/On5-git-e-github` com a base em `main` e no head repository devemos selecionar o com nosso usuario `seuUsuario/On5-git-e-github` compare `fork-exercicio-seuNome`
 
 **Obs**: Caso quiser mandar o pull request pro seu repositorio que passou por fork, é só mudar o base repository para `seuUsuario/On5-git-e-github`
 
@@ -142,9 +142,9 @@ git remote add upstream https://github.com/reprograma/On5-git-e-github.git
 ```
 <img src="../imgs/fork/fork-remote-upstream.png" alt="Terminal mostrando o que vem no origin e no upstream deve conter o link do clone do fork e do clone do repositorio original" />
 
-Agora para atualizar a master do projeto copiado(fork) com o repositorio online devemos:
-- `git checkout master`
-- `git pull upstream master`
+Agora para atualizar a main do projeto copiado(fork) com o repositorio online devemos:
+- `git checkout main`
+- `git pull upstream main`
 
 <img src="../imgs/fork/fork-pull-upstream.png" alt="Terminal mostrando o que vem no origin, deve conter o link do clone" />
 

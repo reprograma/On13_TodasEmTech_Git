@@ -39,7 +39,7 @@
 - Verifique no GitHub se sua alteração foi enviada com sucesso. Veja se sua branch está no repositório: https://github.com/reprograma/On13_TodasEmTech_Git
 - Clicar na aba **Pull requests** do repositório no GitHub.
 - Clicar em **Compare & pull request** e verifique as alterações no código.
-- **base: master <= compare: ex-aula-seuNome**: Criar o **pull request** verificando se está indo da sua branch `ex-aula-seuNome` para a branch master.
+- **base: main <= compare: ex-aula-seuNome**: Criar o **pull request** verificando se está indo da sua branch `ex-aula-seuNome` para a branch main.
 - Solicitar a revisão de código para a professora **itsalle**.
 - Aguardar a aprovação da sua solicitação.
-- A professora fará o **merge** da sua branch `ex-aula-seuNome` para a `master`.
+- A professora fará o **merge** da sua branch `ex-aula-seuNome` para a `main`.
