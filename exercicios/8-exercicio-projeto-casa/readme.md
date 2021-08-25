@@ -48,7 +48,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
 * `git status`: verificar o status (ATENÇÃO: aqui se certifique que você está na branch com seu nome)
 * caso não esteja na branch com seu nome, lista todas as branchs `git branch -a`
 * `git checkout branch-com-meu-nome-sobrenome`: acessar a branch com seu nome e sobrenome :)
-* `git add index.html`: Adicionar as alterações para área de preparaço.
+* `git add index.html`: Adicionar as alterações para área de preparação.
 * `git status`: verificar o status novamente.
 * `git commit -m "adicionando foto e link de <seu nome> para Githbub"`: adicionar mensagem de ***commit***.
 * `git push origin branch-com-meu-nome-sobrenome`: subir as alterações da sua branch para o seu repositório remoto.
