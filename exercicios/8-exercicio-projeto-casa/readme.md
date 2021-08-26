@@ -4,7 +4,7 @@
 Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-TodasEmTech_Git/blob/86ae350c27a4760f5fddf86b006cfcfa3f6b7e6c/conteudo/sobre-fork.md)
 
 ### Instruções
-* Após o fork, entrar no repositório que fica na aba de "Meus Repositórios" na sua conta do Githun
+* Após o fork, entrar no repositório que fica na aba de "Meus Repositórios" na sua conta do Github
 * Clonar o repositório para seu computador
 * Entrar na pasta 8-exercicio-projeto-casa e siga as instruções a seguir.
 * Adicionar link para imagem, link para seu github e o seu nome em uma `<div>`, seguindo o modelo com as informações da Paula Allemand.
